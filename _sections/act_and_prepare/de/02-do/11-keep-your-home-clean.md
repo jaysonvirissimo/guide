@@ -1,8 +1,8 @@
 {:.only_toc}
-## Zuhause
+### Zuhause
 
 {:.do.no_toc}
-## Halte Dein Zuhause sauber
+### Halte Dein Zuhause sauber
 
 Halte Dein Zuhause frei von Infektionsquellen.
 Am besten, Du gewöhnst Dir ein routinemäßiges  Verhalten beim Nachhausekommen an: Schuhe aus, Oberbekleidung aus - Händewaschen!

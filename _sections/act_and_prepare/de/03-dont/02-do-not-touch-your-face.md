@@ -1,5 +1,5 @@
 {:.dont}
-## Nicht ins Gesicht fassen
+### Nicht ins Gesicht fassen
 
 CoVID-19 wird hauptsächlich über Augen, Mund und Nase übertragen. Man spricht von einer "Tröpfcheninfektion": Das Virus ist auf einem Gegenstand, zum Beispiel einer Türklinke. Vielleicht weil zuvor jemand gehustet und dabei nicht acht gegeben hat. Du berührst die Türklinke und hast die Erreger jetzt an Deiner Hand. Von dort sind sie ganz schnell in Augen, Nase und Mund. 
 
