@@ -2,8 +2,9 @@
 layout: home
 title: Сгладить кривую
 lang: ru
-permalink: /
+permalink: "/"
 translate_content: false
 ---
+
 
 {% render_section home %}
