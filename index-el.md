@@ -1,9 +1,10 @@
 ---
-layout: legacy-home
+layout: home
 title: Ισοπέδωσε την καμπύλη
 lang: el
-permalink: /
+permalink: "/"
 translate_content: false
 ---
+
 
 {% render_section home %}
