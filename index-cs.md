@@ -1,9 +1,10 @@
 ---
-layout: legacy-home
+layout: home
 title: Narovnejte křivku
 lang: cs
-permalink: /
+permalink: "/"
 translate_content: false
 ---
+
 
 {% render_section home %}
